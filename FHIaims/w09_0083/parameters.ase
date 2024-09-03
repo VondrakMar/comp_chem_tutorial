@@ -1,0 +1,6 @@
+dict(compute_forces=True,
+     output=['hirshfeld', 'hartree_multipoles'],
+     override_illconditioning=True,
+     relativistic=('atomic_zora', 'scalar'),
+     species_dir='/u/mvondrak/software/fhi-aims.231212_1/species_defaults/defaults_2020/tight/',
+     xc='pbe0')
